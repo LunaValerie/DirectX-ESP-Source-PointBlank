@@ -1,7 +1,3 @@
-/*
-Created By : Leopard
-NOT FOR SHARED... SHARE ONLY... 
-*/
 
 #include "PointBlank dxColor.h"
 #include "PointBlank dxDefines.h"
